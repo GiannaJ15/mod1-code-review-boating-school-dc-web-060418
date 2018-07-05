@@ -4,8 +4,9 @@ Welcome to Boating School!  A Spongebob activity that simulates a system that tr
 
 Associations:
 
-[Imgur](https://i.imgur.com/eiFqjJe.png)
+![alt text][chart]
 
+[chart]: https://i.imgur.com/eiFqjJe.png
 
 'Student' class:
 * should initialize with first_name
