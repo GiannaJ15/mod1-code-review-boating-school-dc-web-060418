@@ -1,6 +1,6 @@
 # mod1-code-review-boating-school
 
-Welcome to Boating School!  A Spongebob activity that simulates a system that tracks the Boating Tests happening.  We have three models - 'Student', 'Instructor', and 'BoatingTest'.
+Welcome to Boating School!  A Spongebob activity that simulates a system that tracks Boating Tests.  We have three models - 'Student', 'Instructor', and 'BoatingTest'.
 
 Associations:
 
